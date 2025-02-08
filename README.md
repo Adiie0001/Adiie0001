@@ -16,4 +16,4 @@
 📌 **[Portfolio Website](#)** - Built using React/Blazor  
 
 📬 **Connect with Me:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/aditya-maisuriya/) | [GitHub](https://github.com/Adiie0001) | [Email](mailto:adiiimaisuriya94@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-maisuriya-39a540202/) | [GitHub](https://github.com/Adiie0001) | [Email](mailto:adiiimaisuriya94@gmail.com)
