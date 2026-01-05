@@ -45,6 +45,7 @@
 - Architecting scalable web solutions using ASP.NET Core (v8) & C#
 - Building secure RESTful APIs with JWT & RBAC
 - Optimizing SQL performance for international clients
+- Implementing background jobs using **Hangfire** for data synchronization
 #### 🏢 Software Developer @ MICM Net Solutions
 **Duration:** Sep 2023 - Mar 2025 · *(1 Year 7 Months)*
 - Enhanced ERP modules (LMS, SIS, Fees, Healthcare, Reports)
