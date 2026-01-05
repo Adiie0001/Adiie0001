@@ -3,7 +3,7 @@
 > Building scalable SaaS and ERP solutions with 2+ years of professional experience
 ---
 ### 🚀 About Me
-- 🔭 Recently worked at **MICM Net Solutions** as a Software Developer
+- 🔭 Currently working as a **Freelance .NET Developer** building scalable SaaS solutions
 - 💼 **2+ years** of experience in enterprise application development
 - 🌱 Specialized in **ASP.NET Core, C#, JavaScript, and SQL**
 - 🎯 Achieved **99.9% uptime** on production systems
@@ -40,14 +40,19 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiie0001&layout=compact&theme=blue-green&hide_border=true)
 ---
 ### 💼 Professional Experience
+#### 🚀 Freelance .NET Developer (Remote)
+**Duration:** Apr 2025 - Present
+- Architecting scalable web solutions using ASP.NET Core (v8) & C#
+- Building secure RESTful APIs with JWT & RBAC
+- Optimizing SQL performance for international clients
 #### 🏢 Software Developer @ MICM Net Solutions
-**Duration:** 1.7 Years  
-- Enhanced ERP modules (LMS, SIS, Fees, Reports)
+**Duration:** Sep 2023 - Mar 2025 · *(1 Year 7 Months)*
+- Enhanced ERP modules (LMS, SIS, Fees, Healthcare, Reports)
 - Optimized SQL queries improving performance
 - Integrated payment gateways & role-based access
 - Achieved 99.9% uptime on production systems
 #### 🚀 ASP.NET Core Developer (Intern) @ Pulse Net Solutions
-**Duration:** 0.5 Years  
+**Duration:** Dec 2022 - May 2023 · *(6 Months)*
 - Developed web applications using ASP.NET Core
 - Managed databases with SQL & MongoDB
 - Contributed to architecture design & scalability
