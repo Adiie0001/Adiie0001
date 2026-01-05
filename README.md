@@ -36,8 +36,8 @@
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ---
 ### 📊 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adiie0001&show_icons=true&theme=blue-green&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiie0001&layout=compact&theme=blue-green&hide_border=true)
+![Aditya's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Adiie0001&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adiie0001&layout=compact&theme=blue-green&hide_border=true)
 ---
 ### 💼 Professional Experience
 #### 🚀 Freelance .NET Developer (Remote)
