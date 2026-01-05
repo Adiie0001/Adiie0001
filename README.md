@@ -10,7 +10,6 @@
 - 💡 Passionate about clean code, scalable architecture, and modern web technologies
 - 📍 Based in **Valsad, India**
 ---
-markdown
 ### 🛠️ Tech Stack
 | Domain | Technologies |
 | :--- | :--- |
