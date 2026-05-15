@@ -16,7 +16,7 @@
 - 💼 **2+ years** enterprise experience in production ASP.NET Core systems
 - 🌱 Specialized in **ASP.NET Core · C# · REST APIs · EF Core · SQL Server**
 - 🎯 Achieved **99.9% uptime** on production systems
-- 💡 Passionate about clean architecture, security-first APIs, and AI automation
+- 💡 Passionate about clean architecture, security-first APIs, and business automation
 - 📍 **Valsad, India** · Open to remote opportunities
 
 ---
@@ -55,11 +55,11 @@
 
 ---
 
-#### ✨ [Satya Jyotish](https://satyajyotish.in) — AI-Powered Astrology Business Ecosystem
+#### ✨ [Satya Jyotish](https://satyajyotish.in) — Modern Astrology Business Ecosystem
 ![Live](https://img.shields.io/badge/Live-Production-brightgreen?style=flat-square)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-> Complete AI-driven business ecosystem for a 25-year-old family astrology practice. Auto-versioned PWA, WhatsApp Business API integration, SEO-optimized, Cloudflare Pages deployment, automated CI/CD with Git hooks.
+> Complete digital business ecosystem for a 25-year-old family astrology practice. Auto-versioned PWA, WhatsApp Business API integration, SEO-optimized, Cloudflare Pages deployment, automated CI/CD with Git hooks.
 
 **Stack:** HTML · CSS · JavaScript · PWA · Service Workers · Cloudflare Pages · WhatsApp API
 
@@ -85,7 +85,7 @@
 **Duration:** Apr 2025 - Present
 - Architecting scalable web solutions using ASP.NET Core & C#
 - Building secure RESTful APIs with JWT & RBAC
-- AI-powered business automation (WhatsApp API, Cloudflare integration)
+- Digital business automation (WhatsApp API, Cloudflare integration)
 - Optimizing SQL performance for international clients
 
 #### 🏢 Software Developer @ MICM Net Solutions
