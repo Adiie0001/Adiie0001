@@ -12,8 +12,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Freelance .NET Developer** — building scalable SaaS & AI-powered web solutions
-- 💼 **2+ years** enterprise experience in production ASP.NET Core systems
+- 🔭 **Independent Developer** — building scalable REST APIs & business automation solutions
+- 💼 **2+ years** total experience in building production enterprise ERP modules
 - 🌱 Specialized in **ASP.NET Core · C# · REST APIs · EF Core · SQL Server**
 - 🎯 Achieved **99.9% uptime** on production systems
 - 💡 Passionate about clean architecture, security-first APIs, and business automation
@@ -49,7 +49,7 @@
 [![.NET Build](https://github.com/Adiie0001/Ecommerce-API/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Adiie0001/Ecommerce-API/actions/workflows/dotnet.yml)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8.0-512BD4?style=flat-square&logo=.net)
 
-> Production-quality REST API demonstrating JWT authentication, BCrypt password hashing, protected endpoints (`[Authorize]`), Swagger UI with auth button, and auto seed data.
+> BCA Capstone Project — Production-quality REST API demonstrating JWT authentication, BCrypt password hashing, protected endpoints (`[Authorize]`), Swagger UI with auth button, and auto seed data.
 
 **Stack:** ASP.NET Core 8 Web API · JWT · BCrypt · EF Core · SQL Server · Swagger
 
@@ -81,23 +81,21 @@
 
 ### 💼 Professional Experience
 
-#### 🚀 Freelance .NET Developer (Remote)
+#### 🚀 Independent Developer
 **Duration:** Apr 2025 - Present
-- Architecting scalable web solutions using ASP.NET Core & C#
-- Building secure RESTful APIs with JWT & RBAC
-- Digital business automation (WhatsApp API, Cloudflare integration)
-- Optimizing SQL performance for international clients
+- Upgraded MCA (TeamLocum) & BCA (Ecommerce-API) capstones to modern .NET 9/8 standards with CI/CD
+- Deployed a production PWA for a family business with WhatsApp API & Cloudflare integration
 
 #### 🏢 Software Developer @ MICM Net Solutions
 **Duration:** Sep 2023 - Mar 2025 · *(1 Year 7 Months)*
-- Enhanced ERP modules (LMS, SIS, Fees, Healthcare, Reports)
-- Integrated payment gateways & role-based access control
-- Achieved **99.9% uptime** on production systems
+- Developed 7 core modules of Edusprint ERP (Healthcare, Fees, LMS, SIS, etc.)
+- Implemented branch-level module customization for multi-tenant configurations
+- Integrated payment gateways & role-based access control (RBAC)
 
 #### 🚀 ASP.NET Core Developer (Intern) @ Pulse Net Solutions
 **Duration:** Dec 2022 - May 2023 · *(6 Months)*
-- Developed web applications using ASP.NET Core
-- Managed databases with SQL & MongoDB
+- Built backend controllers and data access layers for .NET Core web apps
+- Designed SQL Server and MongoDB schemas for data reporting
 
 ---
 
