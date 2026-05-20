@@ -88,7 +88,7 @@
 
 #### 🏢 Software Developer @ MICM Net Solutions
 **Duration:** Sep 2023 - Mar 2025 · *(1 Year 7 Months)*
-- Developed 7 core modules of Edusprint ERP (Healthcare, Fees, LMS, SIS, etc.)
+- Maintained and enhanced 7 core modules of Edusprint ERP (Healthcare, Fees, LMS, SIS, etc.)
 - Implemented branch-level module customization for multi-tenant configurations
 - Integrated payment gateways & role-based access control (RBAC)
 
