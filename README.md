@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+👋;ASP.NET+Core+%26+C%23+Developer;Building+Production-Grade+.NET+Apps;2%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+👋;Mid-Level+.NET+Developer;Building+Production-Grade+Apps;2.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adiie0001&color=512BD4&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-maisuriya-39a540202)
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🔭 **Independent Developer** — building scalable REST APIs & business automation solutions
-- 💼 **2+ years** total experience in building production enterprise ERP modules
+- 💼 **2.5+ years** total experience in building production enterprise ERP modules
 - 🌱 Specialized in **ASP.NET Core · C# · REST APIs · EF Core · SQL Server**
 - 🎯 Achieved **99.9% uptime** on production systems
 - 💡 Passionate about clean architecture, security-first APIs, and business automation
@@ -41,7 +41,7 @@
 
 > MCA Capstone Project — Connects locum doctors with hospitals. Role-based auth (Admin/Client/Locum), automated job matching algorithm, booking management, UK bank holiday awareness.
 
-**Stack:** ASP.NET Core MVC · EF Core · ASP.NET Identity · SQL Server · Bootstrap 5
+**Stack:** ASP.NET Core MVC 9 · EF Core · ASP.NET Identity · SQL Server · GitHub Actions CI/CD · xUnit
 
 ---
 
@@ -59,9 +59,9 @@
 ![Live](https://img.shields.io/badge/Live-Production-brightgreen?style=flat-square)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-> Complete digital business ecosystem for a 25-year-old family astrology practice. Auto-versioned PWA, WhatsApp Business API integration, SEO-optimized, Cloudflare Pages deployment, automated CI/CD with Git hooks.
+> Complete digital business ecosystem for a 25-year-old family astrology practice. Features a Gemini AI chatbot for inquiries, WhatsApp Business API integration, auto-versioned PWA, SEO optimization, and automated CI/CD with Git hooks.
 
-**Stack:** HTML · CSS · JavaScript · PWA · Service Workers · Cloudflare Pages · WhatsApp API
+**Stack:** HTML · CSS · JS · PWA · Cloudflare Pages · Gemini AI · WhatsApp API
 
 ---
 
@@ -108,10 +108,10 @@
 ---
 
 ### 💡 Currently
-- 🔍 **Open to .NET Developer opportunities** (remote / hybrid)
-- 📚 Learning advanced cloud architectures & Minimal APIs
+- 🔍 **Targeting Mid-Level .NET Developer roles** (remote / hybrid)
+- 💼 Ask me about: **Microservices, Multi-tenant Architecture (ERP), and API Security**
+- 📚 Learning advanced Azure cloud architectures & Minimal APIs
 - 🤝 Looking to collaborate on .NET open source projects
-- 💬 Ask me about **ASP.NET Core · JWT · EF Core · SQL · C#**
 
 ---
 
