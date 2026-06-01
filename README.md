@@ -39,9 +39,10 @@
 [![.NET Build](https://github.com/Adiie0001/TeamLocum/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Adiie0001/TeamLocum/actions/workflows/dotnet.yml)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-9.0-512BD4?style=flat-square&logo=.net)
 
-> MCA Capstone Project — Connects locum doctors with hospitals. Role-based auth (Admin/Client/Locum), automated job matching algorithm, booking management, UK bank holiday awareness.
-
-**Stack:** ASP.NET Core MVC 9 · EF Core · ASP.NET Identity · SQL Server · GitHub Actions CI/CD · xUnit
+> MCA Capstone Project — Connects locum doctors with hospitals.
+- **Tech:** ASP.NET Core MVC 9, Entity Framework Core, SQLite, Bootstrap 5
+- **Features:** Role-Based Access (Admin/Hospital/Locum), AI-Powered Heuristic Job Matching (Token-efficient scoring), automated conflict detection
+- **Impact:** Solves double-booking and automates the UK NHS locum staffing workflow
 
 ---
 
@@ -51,7 +52,9 @@
 
 > BCA Capstone Project — Production-quality REST API demonstrating JWT authentication, BCrypt password hashing, protected endpoints (`[Authorize]`), Swagger UI with auth button, and auto seed data.
 
-**Stack:** ASP.NET Core 8 Web API · JWT · BCrypt · EF Core · SQL Server · Swagger
+- **Tech:** ASP.NET Core 8 Web API, JWT, BCrypt, Swagger, GitHub Actions
+- **Features:** Secure endpoints with Bearer tokens, fully documented Swagger UI, AI Product Recommendation engine using simulated heuristic algorithms
+- **Impact:** Ready-to-deploy secure backend for modern e-commerce storefronts
 
 ---
 
