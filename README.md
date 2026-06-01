@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+;Mid-Level+.NET+Developer;Building+Production-Grade+Apps;3.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
 
@@ -86,7 +86,7 @@
 - Upgraded MCA (TeamLocum) & BCA (Ecommerce-API) capstones to modern .NET 9/8 standards with CI/CD
 - Deployed a production PWA for a family business with WhatsApp API & Cloudflare integration
 
-#### 🏢 Software Developer @ MICM Net Solutions
+#### Software Developer @ MICM Net Solutions
 **Duration:** Sep 2023 - Mar 2025 · *(1 Year 7 Months)*
 - Maintained and enhanced 7 core modules of Edusprint ERP (Healthcare, Fees, LMS, SIS, etc.)
 - Implemented branch-level module customization for multi-tenant configurations
@@ -108,7 +108,7 @@
 ---
 
 ### Currently
-- 🔍 **Targeting Mid-Level .NET Developer roles** (remote / hybrid)
+- **Targeting Mid-Level .NET Developer roles** (remote / hybrid)
 - Ask me about: **Microservices, Multi-tenant Architecture (ERP), and API Security**
 - Learning advanced Azure cloud architectures & Minimal APIs
 - Looking to collaborate on .NET open source projects
