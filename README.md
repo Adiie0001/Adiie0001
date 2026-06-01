@@ -55,7 +55,7 @@
 
 ---
 
-#### ✨ [Satya Jyotish](https://satyajyotish.in) — Modern Astrology Business Ecosystem
+#### 🔮 [Satya Jyotish](https://satyajyotish.in) — Modern Astrology Business Ecosystem
 ![Live](https://img.shields.io/badge/Live-Production-brightgreen?style=flat-square)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
