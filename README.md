@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+👋;Mid-Level+.NET+Developer;Building+Production-Grade+Apps;3.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+;Mid-Level+.NET+Developer;Building+Production-Grade+Apps;3.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adiie0001&color=512BD4&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-maisuriya-39a540202)
@@ -11,17 +11,17 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 **Independent Developer** — building scalable REST APIs & business automation solutions
-- 💼 **3.5+ years** total experience in building production enterprise ERP modules
-- 🌱 Specialized in **ASP.NET Core · C# · REST APIs · EF Core · SQL Server**
-- 🎯 Achieved **99.9% uptime** on production systems
-- 💡 Passionate about clean architecture, security-first APIs, and business automation
-- 📍 **Valsad, India** · Open to remote opportunities
+### About Me
+- **Independent Developer** — building scalable REST APIs & business automation solutions
+- **3.5+ years** total experience in building production enterprise ERP modules
+- Specialized in **ASP.NET Core · C# · REST APIs · EF Core · SQL Server**
+- Achieved **99.9% uptime** on production systems
+- Passionate about clean architecture, security-first APIs, and business automation
+- **Valsad, India** · Open to remote opportunities
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -33,9 +33,9 @@
 
 ---
 
-### 🏗️ Featured Projects
+### Featured Projects
 
-#### 🏥 [TeamLocum](https://github.com/Adiie0001/TeamLocum) — Healthcare Staffing Management System
+#### [TeamLocum](https://github.com/Adiie0001/TeamLocum) — Healthcare Staffing Management System
 [![.NET Build](https://github.com/Adiie0001/TeamLocum/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Adiie0001/TeamLocum/actions/workflows/dotnet.yml)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-9.0-512BD4?style=flat-square&logo=.net)
 
@@ -45,7 +45,7 @@
 
 ---
 
-#### 🛒 [Ecommerce-API](https://github.com/Adiie0001/Ecommerce-API) — Modern REST API with JWT Auth
+#### [Ecommerce-API](https://github.com/Adiie0001/Ecommerce-API) — Modern REST API with JWT Auth
 [![.NET Build](https://github.com/Adiie0001/Ecommerce-API/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Adiie0001/Ecommerce-API/actions/workflows/dotnet.yml)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8.0-512BD4?style=flat-square&logo=.net)
 
@@ -55,7 +55,7 @@
 
 ---
 
-#### 🔮 [Satya Jyotish](https://satyajyotish.in) — Modern Astrology Business Ecosystem
+#### [Satya Jyotish](https://satyajyotish.in) — Modern Astrology Business Ecosystem
 ![Live](https://img.shields.io/badge/Live-Production-brightgreen?style=flat-square)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -79,9 +79,9 @@
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
-#### 🚀 Independent Developer
+#### Independent Developer
 **Duration:** Apr 2025 - Present
 - Upgraded MCA (TeamLocum) & BCA (Ecommerce-API) capstones to modern .NET 9/8 standards with CI/CD
 - Deployed a production PWA for a family business with WhatsApp API & Cloudflare integration
@@ -92,26 +92,26 @@
 - Implemented branch-level module customization for multi-tenant configurations
 - Integrated payment gateways & role-based access control (RBAC)
 
-#### 🚀 ASP.NET Core Developer (Intern) @ Pulse Net Solutions
+#### ASP.NET Core Developer (Intern) @ Pulse Net Solutions
 **Duration:** Dec 2022 - May 2023 · *(6 Months)*
 - Built backend controllers and data access layers for .NET Core web apps
 - Designed SQL Server and MongoDB schemas for data reporting
 
 ---
 
-### 🎓 Education & Certifications
-- 🎓 **MCA** — VNSGU, Surat (2021-2023)
-- 🎓 **BCA** — CASPS, Chikhli (2018-2021)
-- ✅ Google Developers Launchpad – Web Development
-- ✅ Ganpat University – Website Development using .NET
+### Education & Certifications
+- **MCA** — VNSGU, Surat (2021-2023)
+- **BCA** — CASPS, Chikhli (2018-2021)
+- [x] Google Developers Launchpad – Web Development
+- [x] Ganpat University – Website Development using .NET
 
 ---
 
-### 💡 Currently
+### Currently
 - 🔍 **Targeting Mid-Level .NET Developer roles** (remote / hybrid)
-- 💼 Ask me about: **Microservices, Multi-tenant Architecture (ERP), and API Security**
-- 📚 Learning advanced Azure cloud architectures & Minimal APIs
-- 🤝 Looking to collaborate on .NET open source projects
+- Ask me about: **Microservices, Multi-tenant Architecture (ERP), and API Security**
+- Learning advanced Azure cloud architectures & Minimal APIs
+- Looking to collaborate on .NET open source projects
 
 ---
 
@@ -119,6 +119,7 @@
 
 *"Results-driven developer with a passion for clean architecture, security-first APIs, and production-grade solutions."*
 
-**🌐 [adityamaisuriya.pages.dev](https://adityamaisuriya.pages.dev) · 📧 adiiimaisuriya94@gmail.com**
+** [adityamaisuriya.pages.dev](https://adityamaisuriya.pages.dev) · adiiimaisuriya94@gmail.com**
 
 </div>
+
