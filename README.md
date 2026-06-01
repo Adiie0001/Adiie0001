@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+👋;Mid-Level+.NET+Developer;Building+Production-Grade+Apps;2.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+👋;Mid-Level+.NET+Developer;Building+Production-Grade+Apps;3.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adiie0001&color=512BD4&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-maisuriya-39a540202)
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🔭 **Independent Developer** — building scalable REST APIs & business automation solutions
-- 💼 **2.5+ years** total experience in building production enterprise ERP modules
+- 💼 **3.5+ years** total experience in building production enterprise ERP modules
 - 🌱 Specialized in **ASP.NET Core · C# · REST APIs · EF Core · SQL Server**
 - 🎯 Achieved **99.9% uptime** on production systems
 - 💡 Passionate about clean architecture, security-first APIs, and business automation
