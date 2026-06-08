@@ -76,12 +76,6 @@
     <img src="https://streak-stats.demolab.com?user=Adiie0001&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
   </a>
 </div>
-<br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adiie0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
 
 ---
 
