@@ -71,15 +71,20 @@
 ### GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Adiie0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adiie0001&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adiie0001&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adiie0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adiie0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adiie0001&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Adiie0001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adiie0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
