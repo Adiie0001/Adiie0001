@@ -71,13 +71,9 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adiie0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adiie0001&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adiie0001&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Adiie0001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Adiie0001&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
   </a>
 </div>
 <br>
