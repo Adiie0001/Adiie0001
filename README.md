@@ -109,7 +109,7 @@
 ---
 
 ### Currently
-- **Targeting Mid-Level .NET Developer roles** (remote / hybrid)
+- **Targeting AI Solutions & Backend (.NET) Integration roles** (remote / hybrid)
 - Ask me about: **Microservices, Multi-tenant Architecture (ERP), and API Security**
 - Learning advanced Azure cloud architectures & Minimal APIs
 - Looking to collaborate on .NET open source projects
