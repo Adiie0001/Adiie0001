@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+;Mid-Level+.NET+Developer;Building+Production-Grade+Apps;3.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+;AI+Integration+Engineer;Building+Autonomous+AI+Systems;3.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adiie0001&color=512BD4&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-maisuriya-39a540202)
@@ -12,12 +12,12 @@
 ---
 
 ### About Me
-- **Independent Developer** — building scalable REST APIs & business automation solutions
-- **3.5+ years** total experience in building production enterprise ERP modules
-- Specialized in **ASP.NET Core · C# · REST APIs · EF Core · SQL Server**
-- Achieved **99.9% uptime** on production systems
-- Passionate about clean architecture, security-first APIs, and business automation
-- **Valsad, India** · Open to remote opportunities
+- **AI Integration Engineer & Backend Developer** — building scalable REST APIs & autonomous agentic workflows
+- **3.5+ years** total experience in developing production enterprise systems and AI-driven SaaS
+- Specialized in **Prompt Engineering • ASP.NET Core • Serverless CI/CD • C# • LLM APIs**
+- Engineered **"Zero-Touch" autonomous CRM systems** processing 24/7 business operations
+- Passionate about token-efficient meta-prompting, clean backend architecture, and cloud edge computing
+- **Valsad, India** — Open to remote AI/Backend roles
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Domain | Technologies |
 | :--- | :--- |
+| **AI & Automation** | ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-512BD4?style=flat-square&logo=openai&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **Backend** | ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) |
 | **Database** | ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
