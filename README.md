@@ -84,8 +84,10 @@
 
 #### Independent Developer
 **Duration:** Apr 2025 - Present
-- Upgraded MCA (TeamLocum) & BCA (Ecommerce-API) capstones to modern .NET 9/8 standards with CI/CD
-- Deployed a production PWA for a family business with WhatsApp API & Cloudflare integration
+- Engineered autonomous CRM architecture with Gemini LLM & WhatsApp APIs on Cloudflare edge workers
+- Developed Meta-Prompting frameworks to enforce strict token-efficiency and prevent AI hallucinations
+- Built serverless CI/CD pipelines via GitHub Actions, optimizing runner-minute quotas
+- Upgraded full-stack .NET capstones using AutoMapper, DTOs, and comprehensive xUnit suites
 
 #### Software Developer @ MICM Net Solutions
 **Duration:** Sep 2023 - Mar 2025 · *(1 Year 7 Months)*
@@ -118,7 +120,7 @@
 
 <div align="center">
 
-*"Results-driven developer with a passion for clean architecture, security-first APIs, and production-grade solutions."*
+*"Results-driven AI Integration Engineer with a passion for clean architecture, autonomous agentic workflows, and production-grade AI solutions."*
 
 ** [adityamaisuriya.pages.dev](https://adityamaisuriya.pages.dev) · adiiimaisuriya94@gmail.com**
 
