@@ -40,7 +40,7 @@
 [![.NET Build](https://github.com/Adiie0001/TeamLocum/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Adiie0001/TeamLocum/actions/workflows/dotnet.yml)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-9.0-512BD4?style=flat-square&logo=.net)
 
-> MCA Capstone Project — Connects locum doctors with hospitals.
+> Production-Ready Healthcare Staffing System — Connects locum doctors with hospitals.
 - **Tech:** ASP.NET Core MVC 9, Entity Framework Core, SQLite, Bootstrap 5
 - **Features:** Role-Based Access (Admin/Hospital/Locum), AI-Powered Heuristic Job Matching (Token-efficient scoring), automated conflict detection
 - **Impact:** Solves double-booking and automates the UK NHS locum staffing workflow
