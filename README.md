@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+;AI+Integration+Engineer;Building+Autonomous+AI+Systems;3.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+;Full+Stack+Developer+%7C+ASP.NET+Core+%7C+C%23;AI+Integration+Engineer;Building+Autonomous+AI+Systems;3.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adiie0001&color=512BD4&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-maisuriya-39a540202)
@@ -12,12 +12,12 @@
 ---
 
 ### About Me
-- **AI Integration Engineer & Backend Developer** — building scalable REST APIs & autonomous agentic workflows
-- **3.5+ years** total experience in developing production enterprise systems and AI-driven SaaS
-- Specialized in **Prompt Engineering • ASP.NET Core • Serverless CI/CD • C# • LLM APIs**
-- Engineered **"Zero-Touch" autonomous CRM systems** processing 24/7 business operations
-- Passionate about token-efficient meta-prompting, clean backend architecture, and cloud edge computing
-- **Valsad, India** — Open to remote AI/Backend roles
+- **Full Stack Developer & ASP.Net / .Net Core Developer** — C#, MVC, Web API, Entity Framework, LINQ, MS SQL Server, REST APIs
+- **3.5+ years** total experience in enterprise ERP development and AI-driven production systems
+- Built a live **24/7 autonomous CRM** for a production client using Cloudflare Workers, WhatsApp API & Gemini LLM
+- Specialized in **OOP · Design Patterns · SOLID · Performance tuning · Scalability · Data Modeling**
+- Also experienced in: Angular · React.js · JavaScript · jQuery · AJAX · HTML5 · CSS3 · PWA
+- **Valsad, India** — Open to Remote roles | Expected: 6.5-7 LPA | Immediate joiner
 
 ---
 
@@ -25,12 +25,13 @@
 
 | Domain | Technologies |
 | :--- | :--- |
-| **AI & Automation** | ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-512BD4?style=flat-square&logo=openai&logoColor=white) ![LLM Orchestration](https://img.shields.io/badge/-LLM_Orchestration-6D28D9?style=flat-square&logo=openai&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Backend** | ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![AutoMapper](https://img.shields.io/badge/-AutoMapper-512BD4?style=flat-square&logo=.net&logoColor=white) ![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=flat-square&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) |
-| **Database** | ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| **Backend & Core** | ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat-square&logo=.net&logoColor=white) ![MVC](https://img.shields.io/badge/-MVC-512BD4?style=flat-square&logo=.net&logoColor=white) ![Web API](https://img.shields.io/badge/-Web_API-512BD4?style=flat-square&logo=.net&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **AI & Automation** | ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-512BD4?style=flat-square&logo=openai&logoColor=white) ![LLM Orchestration](https://img.shields.io/badge/-LLM_Orchestration-6D28D9?style=flat-square&logo=openai&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Front-end & UI** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Database** | ![MS SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Architecture** | ![OOP](https://img.shields.io/badge/-OOP-512BD4?style=flat-square) ![Design Patterns](https://img.shields.io/badge/-Design_Patterns-512BD4?style=flat-square) ![SOLID](https://img.shields.io/badge/-SOLID-512BD4?style=flat-square) ![JWT](https://img.shields.io/badge/-JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=flat-square&logo=.net&logoColor=white) |
+| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![IIS](https://img.shields.io/badge/-IIS-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 
 ---
 
@@ -82,23 +83,25 @@
 
 ### Professional Experience
 
-#### Independent Developer
+#### Independent Contractor — Client: Satya Solutions IT, Valsad
 **Duration:** Apr 2025 - Present
-- Engineered autonomous CRM architecture with Gemini LLM & WhatsApp APIs on Cloudflare edge workers
-- Developed Meta-Prompting frameworks to enforce strict token-efficiency and prevent AI hallucinations
-- Built serverless CI/CD pipelines via GitHub Actions, optimizing runner-minute quotas
-- Upgraded full-stack .NET capstones using AutoMapper, DTOs, and comprehensive xUnit suites
+- Architected a scalable, 24/7 autonomous CRM web application using Cloudflare serverless edge workers, WhatsApp Business API & Gemini LLM - zero downtime since launch
+- Engineered Meta-Prompting frameworks for token efficiency and multi-agent decision-making in production agentic workflows
+- Developed JSON-based REST APIs and web services with ASP.NET Core (Dot Net Core); built CI/CD pipelines via GitHub Actions
+- Refactored ASP.NET Core projects: AutoMapper, DTO patterns, SOLID principles, Global Exception Handling, xUnit test suites
 
 #### Software Developer @ MICM Net Solutions
-**Duration:** Sep 2023 - Mar 2025 · *(1 Year 7 Months)*
-- Maintained and enhanced 7 core modules of Edusprint ERP (Healthcare, Fees, LMS, SIS, etc.)
-- Implemented branch-level module customization for multi-tenant configurations
-- Integrated payment gateways & role-based access control (RBAC)
+**Duration:** Sep 2023 - Mar 2025
+- Full-cycle application development on Edusprint - a multi-tenant school ERP (ASP.Net / MS SQL Server) across CBSE/ICSE schools in Gujarat, Maharashtra, and pan-India
+- Implemented AJAX-based partial page updates and JSON data exchange; ensured cross-browser compatibility across Chrome, Firefox, Edge
+- Used Visual Studio for feature development; maintained XML data exports and IIS/Apache-hosted web server deployments
+- Integrated Payment Gateway and RBAC into Fees module; debugged live production incidents using Visual Studio debugging tools
 
 #### ASP.NET Core Developer (Intern) @ Pulse Net Solutions
-**Duration:** Dec 2022 - May 2023 · *(6 Months)*
-- Built backend controllers and data access layers for .NET Core web apps
-- Designed SQL Server and MongoDB schemas for data reporting
+**Duration:** Dec 2022 - May 2023
+- Built web application back-end controllers and data access layers using ASP.Net (Dot Net Core) and Visual Studio; developed JSON-based web services and REST APIs
+- Designed MS SQL Server and MongoDB schemas; wrote data-driven queries for data retrieval, reporting, and performance tuning
+- Debugging issues in staging/production using Visual Studio debugging tools and Chrome inspector; ensured cross-browser compatibility
 
 ---
 
@@ -111,10 +114,10 @@
 ---
 
 ### Currently
-- **Targeting AI Solutions & Backend (.NET) Integration roles** (remote / hybrid)
-- Ask me about: **Microservices, Multi-tenant Architecture (ERP), and API Security**
-- Learning advanced Azure cloud architectures & Minimal APIs
-- Looking to collaborate on .NET open source projects
+- **Targeting ASP.NET / .NET / Full Stack (C#) and AI Integration roles** — Remote only
+- Open to: .NET Developer, Full Stack Developer, ASP.NET Core Developer, AI Integration Engineer
+- Expected CTC: **6.5–7 LPA** | Notice: **Immediate**
+- Ask me about: **Entity Framework, Multi-tenant ERP Architecture, REST API Security, Agentic AI Workflows**
 
 ---
 
