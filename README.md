@@ -39,24 +39,24 @@
 
 #### [TeamLocum](https://github.com/Adiie0001/TeamLocum) — Healthcare Staffing Management System
 [![.NET Build](https://github.com/Adiie0001/TeamLocum/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Adiie0001/TeamLocum/actions/workflows/dotnet.yml)
-![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-9.0-512BD4?style=flat-square&logo=.net)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-.NET_10-512BD4?style=flat-square&logo=.net)
 
-> Production-Ready Healthcare Staffing System — Connects locum doctors with hospitals.
-- **Tech:** ASP.NET Core MVC 9, Entity Framework Core, SQLite, Bootstrap 5
-- **Features:** Role-Based Access (Admin/Hospital/Locum), AI-Powered Heuristic Job Matching (Token-efficient scoring), automated conflict detection
-- **Impact:** Solves double-booking and automates the UK NHS locum staffing workflow
+> Healthcare staffing platform — connects locum doctors with hospitals, with an approval workflow and database-enforced no-double-booking.
+- **Tech:** ASP.NET Core MVC (.NET 10), ASP.NET Identity, Entity Framework Core, SQLite, Bootstrap 5, xUnit, GitHub Actions, Docker
+- **Features:** Role-based access (Admin/Hospital/Doctor) with an approval workflow, double-booking prevention enforced in the service and by database triggers (race-tested), transparent candidate ranking with an optional Gemini layer on anonymised data, request correlation IDs
+- **Impact:** Models the locum staffing workflow of a UK healthcare agency: post a shift, apply, approve, assign
 
 ---
 
 #### [Ecommerce-API](https://github.com/Adiie0001/Ecommerce-API) — Modern REST API with JWT Auth
 [![.NET Build](https://github.com/Adiie0001/Ecommerce-API/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Adiie0001/Ecommerce-API/actions/workflows/dotnet.yml)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8.0-512BD4?style=flat-square&logo=.net)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-.NET_10-512BD4?style=flat-square&logo=.net)
 
-> BCA Capstone Project — Production-quality REST API demonstrating JWT authentication, BCrypt password hashing, protected endpoints (`[Authorize]`), Swagger UI with auth button, and auto seed data.
+> BCA Capstone Project — REST API demonstrating JWT authentication with refresh-token rotation, BCrypt password hashing, role-protected endpoints, Swagger UI with auth button, and a React admin console.
 
-- **Tech:** ASP.NET Core 8 Web API, JWT, BCrypt, Swagger, GitHub Actions
-- **Features:** Secure endpoints with Bearer tokens, fully documented Swagger UI, AI Product Recommendation engine using simulated heuristic algorithms
-- **Impact:** Ready-to-deploy secure backend for modern e-commerce storefronts
+- **Tech:** ASP.NET Core Web API (.NET 10), EF Core + SQLite, JWT, BCrypt, React + Vite admin, Swagger, xUnit, GitHub Actions, Docker
+- **Features:** Bearer tokens with refresh rotation and reuse detection, optimistic concurrency, rate limiting, deterministic product recommendations with an optional Gemini layer (the response says which engine answered), request correlation IDs
+- **Impact:** A secure catalog backend with an admin console, covered by integration tests and a CI coverage gate
 
 ---
 
@@ -88,7 +88,7 @@
 - Architected a scalable, 24/7 autonomous CRM web application using Cloudflare serverless edge workers, WhatsApp Business API & Gemini LLM - zero downtime since launch
 - Engineered Meta-Prompting frameworks for token efficiency and multi-agent decision-making in production agentic workflows
 - Developed JSON-based REST APIs and web services with ASP.NET Core (Dot Net Core); built CI/CD pipelines via GitHub Actions
-- Refactored ASP.NET Core projects: AutoMapper, DTO patterns, SOLID principles, Global Exception Handling, xUnit test suites
+- Refactored ASP.NET Core projects: DTO patterns, SOLID principles, Global Exception Handling, xUnit test suites
 
 #### Software Developer @ MICM Net Solutions
 **Duration:** Sep 2023 - Mar 2025
