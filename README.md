@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+;Full+Stack+Developer+%7C+ASP.NET+Core+%7C+C%23;AI+Integration+Engineer;Building+Autonomous+AI+Systems;3.5%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+Maisuriya+;Full+Stack+Developer+%7C+ASP.NET+Core+%7C+C%23;AI+Integration+Engineer;Building+Autonomous+AI+Systems;3.8%2B+Years+of+Enterprise+Experience)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adiie0001&color=512BD4&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-maisuriya-39a540202)
@@ -13,7 +13,7 @@
 
 ### About Me
 - **Full Stack Developer & ASP.Net / .Net Core Developer** — C#, MVC, Web API, Entity Framework, LINQ, MS SQL Server, REST APIs
-- **3.5+ years** total experience in enterprise ERP development and AI-driven production systems
+- **3.8+ years** verified professional experience (Pulse Solutions, MICM Net Solutions, Satya Solutions IT) in enterprise ERP development and AI-driven production systems
 - Built a live **24/7 autonomous CRM** for a production client using Cloudflare Workers, WhatsApp API & Gemini LLM
 - Specialized in **OOP · Design Patterns · SOLID · Performance tuning · Scalability · Data Modeling**
 - Also experienced in: Angular · React.js · JavaScript · jQuery · AJAX · HTML5 · CSS3 · PWA
@@ -87,6 +87,7 @@
 **Duration:** Apr 2025 - Present
 - Architected a scalable, 24/7 autonomous CRM web application using Cloudflare serverless edge workers, WhatsApp Business API & Gemini LLM - zero downtime since launch
 - Engineered Meta-Prompting frameworks for token efficiency and multi-agent decision-making in production agentic workflows
+- Architected a Zero-Model Dynamic Schema Discovery & Metadata Engine (.NET / C# / Dapper / SQL Server) for runtime multi-tenant metadata reflection and dynamic reporting pipelines
 - Developed JSON-based REST APIs and web services with ASP.NET Core (Dot Net Core); built CI/CD pipelines via GitHub Actions
 - Refactored ASP.NET Core projects: DTO patterns, SOLID principles, Global Exception Handling, xUnit test suites
 
@@ -98,7 +99,7 @@
 - Integrated Payment Gateway and RBAC into Fees module; debugged live production incidents using Visual Studio debugging tools
 
 #### ASP.NET Core Developer (Intern) @ Pulse Net Solutions
-**Duration:** Dec 2022 - May 2023
+**Duration:** Dec 2022 - Jun 2023
 - Built web application back-end controllers and data access layers using ASP.Net (Dot Net Core) and Visual Studio; developed JSON-based web services and REST APIs
 - Designed MS SQL Server and MongoDB schemas; wrote data-driven queries for data retrieval, reporting, and performance tuning
 - Debugging issues in staging/production using Visual Studio debugging tools and Chrome inspector; ensured cross-browser compatibility
@@ -108,6 +109,8 @@
 ### Education & Certifications
 - **MCA** — VNSGU, Surat (2021-2023)
 - **BCA** — CASPS, Chikhli (2018-2021)
+- **HSC (12th General)** — GSEB (2018)
+- **SSC (10th)** — GSEB (2016)
 - [x] Google Developers Launchpad – Web Development
 - [x] Ganpat University – Website Development using .NET
 
