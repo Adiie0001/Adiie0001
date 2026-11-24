@@ -13,7 +13,7 @@
 
 ### About Me
 - **Full Stack Developer & ASP.Net / .Net Core Developer** — C#, MVC, Web API, Entity Framework, LINQ, MS SQL Server, REST APIs
-- **3.8+ years** verified professional experience (Pulse Solutions, MICM Net Solutions, Satya Solutions IT) in enterprise ERP development and AI-driven production systems
+- **4.0+ years** verified professional experience (Pulse Solutions, MICM Net Solutions, Satya Solutions IT) in enterprise ERP development and AI-driven production systems
 - Built a live **24/7 autonomous CRM** for a production client using Cloudflare Workers, WhatsApp API & Gemini LLM
 - Specialized in **OOP · Design Patterns · SOLID · Performance tuning · Scalability · Data Modeling**
 - Also experienced in: Angular · React.js · JavaScript · jQuery · AJAX · HTML5 · CSS3 · PWA
@@ -43,8 +43,8 @@
 
 > Healthcare staffing platform — connects locum doctors with hospitals, with an approval workflow and database-enforced no-double-booking.
 - **Tech:** ASP.NET Core MVC (.NET 10), ASP.NET Identity, Entity Framework Core, SQLite, Bootstrap 5, xUnit, GitHub Actions, Docker
-- **Features:** Role-based access (Admin/Hospital/Doctor) with an approval workflow, double-booking prevention enforced in the service and by database triggers (race-tested), transparent candidate ranking with an optional Gemini layer on anonymised data, request correlation IDs
-- **Impact:** Models the locum staffing workflow of a UK healthcare agency: post a shift, apply, approve, assign
+- **Features:** Role-based access (Admin/Hospital/Doctor) with an approval workflow, double-booking prevention enforced in the service and by database triggers (race-tested), transparent candidate ranking with an optional Gemini layer on anonymised data, interactive Admin Database Schema Inspector, request correlation IDs
+- **Impact:** Models the locum staffing workflow of a UK healthcare agency: post a shift, apply, approve, assign (covered by 474 passing xUnit integration tests)
 
 ---
 
@@ -55,8 +55,8 @@
 > BCA Capstone Project — REST API demonstrating JWT authentication with refresh-token rotation, BCrypt password hashing, role-protected endpoints, Swagger UI with auth button, and a React admin console.
 
 - **Tech:** ASP.NET Core Web API (.NET 10), EF Core + SQLite, JWT, BCrypt, React + Vite admin, Swagger, xUnit, GitHub Actions, Docker
-- **Features:** Bearer tokens with refresh rotation and reuse detection, optimistic concurrency, rate limiting, deterministic product recommendations with an optional Gemini layer (the response says which engine answered), request correlation IDs
-- **Impact:** A secure catalog backend with an admin console, covered by integration tests and a CI coverage gate
+- **Features:** Bearer tokens with refresh rotation and reuse detection, optimistic concurrency, rate limiting, zero-model dynamic schema discovery, deterministic product recommendations with an optional Gemini layer (the response says which engine answered), request correlation IDs
+- **Impact:** A secure catalog backend with an admin console, covered by 255 passing xUnit integration tests and a CI coverage gate (729 automated tests total across both repositories)
 
 ---
 
